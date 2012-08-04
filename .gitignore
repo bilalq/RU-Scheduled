@@ -1,0 +1,7 @@
+*.log
+tmp
+build/android
+build/iphone
+*.swp
+.DS_Store
+Thumbs.db
